@@ -121,7 +121,7 @@ footer {
 
 #contact{
   height: 20%;
-  flex-shrink: 0;
+  flex-shrink: 1;
   padding: 20px;
   text-align: center;
   background: hsl(209, 76%, 60%);
